@@ -18,3 +18,6 @@ curl -X GET http://localhost:8081/subjects
 curl -X GET http://localhost:8081/subjects/avro-test-value/versions
 
 curl -X GET http://localhost:8081/subjects/avro-test-value/versions/1
+
+### Test screenshots:
+![](avro-test.png)
