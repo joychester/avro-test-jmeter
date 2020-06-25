@@ -1,6 +1,6 @@
 # Test Avro kafka message:
 
-### Checkout project: https://github.com/corunet/kloadgen
+### Checkout project on how to use koadgen plugin: https://github.com/corunet/kloadgen
 
 ### Topic management:
 ./kafka-topics --list --bootstrap-server localhost:9092  
