@@ -1,4 +1,6 @@
-# avro-test-jmeter
+# Test Avro kafka message:
+
+### Checkout project: https://github.com/corunet/kloadgen
 
 ### Topic management:
 ./kafka-topics --list --bootstrap-server localhost:9092
